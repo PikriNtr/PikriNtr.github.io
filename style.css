@@ -63,19 +63,3 @@
     background-size: cover;
     background-position: center;
 }
-.base1{
-    width: 100%;
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50);
-    text-align: left;
-    color: #fff;
-}
-.base2{
-    width: 100%;
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50);
-    text-align: right;
-    color: #fff;
-}
