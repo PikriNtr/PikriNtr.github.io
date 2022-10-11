@@ -34,7 +34,7 @@
     color: #fff;
     text-transform: uppercase;   
 }
-..navbar ul li::after{
+.navbar ul li::after{
     content: '';
     height: 3px;
     width: 100%;
