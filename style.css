@@ -48,16 +48,12 @@
     width: 100%;
 
 }
-.content{
-    background-color: gray;
-    background-size: cover;
-    background-position: center;
-}
+
 .base{
     width: 100%;
     position: absolute;
     top: 50%;
     transform: translateY(-50);
     text-align: center;
-    color: #fff;
+    color: #000;
 }
