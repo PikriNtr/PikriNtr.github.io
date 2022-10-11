@@ -50,6 +50,8 @@
 }
 .content{
     background-color: gray;
+    background-size: cover;
+    background-position: center;
 }
 .base{
     width: 100%;
