@@ -48,6 +48,9 @@
     width: 100%;
 
 }
+.content{
+    background-color: gray;
+}
 .base{
     width: 100%;
     position: absolute;
