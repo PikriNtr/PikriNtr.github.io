@@ -65,3 +65,21 @@
     background-size: cover;
     background-position: center;
 }
+.pembatas{
+    width: 100%;
+    line-height: 400px;
+    top: 85%;
+    position: absolute;
+    transform: translateY(-50);
+    text-align: center;
+    color: deepskyblue;
+}
+.down_page{
+    width: 100%;
+    top: 85%;
+    position: absolute;
+    transform: translateY(-50);
+    text-align: center;
+    line-height: 800px;
+    color: #fff;
+}
