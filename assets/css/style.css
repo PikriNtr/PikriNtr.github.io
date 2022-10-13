@@ -76,7 +76,7 @@
 }
 .down_page{
     width: 100%;
-    top: 85%;
+    top: 100%;
     position: absolute;
     transform: translateY(-50);
     text-align: center;
