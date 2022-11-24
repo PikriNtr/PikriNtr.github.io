@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <link rel="stylesheet" href="a.css">
+    <title>navu</title>
+</head>
+<body>
+  <div class="navigasi">
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Blogs</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Gallery</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </div>
+  <center>
+  <header id="header">
+    <header>
+      <div class="logo"
+      <h1>PWBB</h1>
+      <h4>Adapun Informasinya Yang Penting Berguna</h4>
+    </div>
+    </header>
+
+    <main>
+      <div class="konten">
+        <div class="padding_this">
+          <h2>
+            Pemrograman Web dan Perangkat Bergerak
+          </h2>
+          <h2>
+            Pemrograman Web dan Perangkat Bergerak
+          </h2>
+          <p>
+            PWPB merupakan singkatan dari Pemrograman web dan perangkat bergerak.
+            PWPB merupakan salah satu materi pembelajaran dalam satuan pendidikan tingkat menengah kejuruan di kompetensi keahlian Rekayasa Perangkat Lunak (RPL). PWPB lebih pada pengembangan aplikasi atau sistem berbasis web yang bisa diakses disemua platform atau bisa diakses disemua teknologi seperti HP, Tablet, laptop (notebook, netbook) atau desktop (biasa disebut PC) </p>
+          <p>
+            PWPB dalam kompetensi keahlian RPL merupakan materi pembelajaran yang mempelajari tentang pembuatan website atau sistem dan juga mempelajari pembuatan aplikasi untuk perangkat bergerak (perangkat yang bisa dibawa kemana-mana seperti Handphone atau tablet) menggunakan Android Studi atau Enclipse berbahasa Java.
+          </p>
+          <p>
+            Dalam mata pelajaran di PWPB mencakup beberapa materi yaitu Back End dan Front End. Front End merupakan pekerjaan yang berada disisi client atau pengguna sebagai contoh apa yang kita lihat sekarang diblog ini adalah pekerjaan dari front end, mengelola tampilan atau desain dari web atau sistem yang akan ditampilkan pada pengguna atau client dimana dikenal dengan sebutan Client-Side. Jadi apa yang dilihat dan dioperasikan oleh user merupakan pekerjaan dari Front End. Kemudian apa itu Back End?, Back End merupakan pekerjaan yang berada di sisi server atau layanan yang bertugas mengelola database dan kode yang akan di baca. back end bertugas untuk membuat arsitektur (membuat proses alur data), membuat kode koneksi atau logika alur data, dan mengelola database. Sehingga data yang diinputkan dari Client Side bisa di kelola oleh sistem dan dikembalikan ke client sesuai dengan harapan yang diinginkan client atau pengguna.
+          </p>
+        </div>
+      </div>
+    </main>
+    <style>
+      h1 {
+        text-shadow: 3px 2px #19e8b4;
+      }
+      </style>
+    <h1 style=color:black>Slwmat Datoang Di Webstw Ku</h1>
+  </header>
+  <input type="text" placeholder="ketik sesuatu..."/>
+  <style=color: green
+  <h4>
+    <i>
+    <p>Halo Apa Kabar, Saya Sedang Belajar CSS</div></i>
+      <P>Materi Yang Sedang Kita Bahas Adalah Selektor</P>
+      <p>Saat Ini Sedang Di Bahas Tentang Selektor Tag</div>
+      <p>Selektor Tag Adalah Selektor Untuk Memilih Element HTML Berdasarkan Nama Tagnya</p>
+      <p>Saya Sedang Belajar <b class="pink">CSS</b> di nxvdzn.com</p>
+</body>
+</html>
